@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WebLab3:jar">
+    <output-path>$PROJECT_DIR$/../artifacts/WebLab3_jar</output-path>
+    <root id="archive" name="WebLab3.jar">
+      <element id="module-output" name="WebLab3" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/platform/jakarta.jakartaee-web-api/9.1.0/jakarta.jakartaee-web-api-9.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-xjc/4.0.0/jaxb-xjc-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/4.0.0/jaxb-core-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.5.0/postgresql-42.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/faces/jakarta.faces-api/4.0.1/jakarta.faces-api-4.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/primefaces/primefaces/12.0.0/primefaces-12.0.0-jakarta.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/persistence/eclipselink/4.0.0/eclipselink-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10/gson-2.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/angus/angus-activation/1.0.0/angus-activation-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javax.persistence.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
