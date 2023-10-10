@@ -120,8 +120,7 @@
         <delete dir="${test.dir}"/>
         <echo>Удаление директории с документами...</echo>
         <delete dir="${doc.dir}"/>
-        <echo>Удаление директории с native2ascii ресурсами...</echo>
-        <delete dir="${native2ascii.resources}"/>
+
     </target>
 
     <target name="test" depends="build" description="Компиляция и выполнение тестов">
